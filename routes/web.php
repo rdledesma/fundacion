@@ -14,8 +14,7 @@ use App\Course;
 */
 
 Route::get('/', function () {
-    $courses = Course::where('state','active')->get();
-    return view('welcome', compact(['courses']));
+    return view('welcome');
 });
 
 Auth::routes();
@@ -31,6 +30,6 @@ Route::resource('subscritor', 'SubscritorController');
 Route::resource('report', 'ReportController');
 
 Route::get('/cursos', function () {
-    $courses = Course::where('state','active')->get();
-    return view('courses', compact(['courses']));
+
+    return view('courses');
 })->name('curses');

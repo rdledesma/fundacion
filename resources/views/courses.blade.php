@@ -97,7 +97,7 @@
 
 
 
-            @foreach ($courses as $item)
+
 
                 <section id="features" class="features">
                     <div class="container">
@@ -107,9 +107,30 @@
                                     <div class="features_item">
 
                                         <div class="f_item_text">
-                                            <h3>{{$item->title}}</h3>
-                                            <img src="images/{{$item->image}}" alt="">
-                                            <p class="text-justify mt-3">{{$item->description}}</p>
+                                            <h3>Curso 1</h3>
+                                            <img src="images/1599882093Sin título - copia.png" alt="">
+                                            <p class="text-justify mt-3">
+                                                Aquí va la desc del curso 1
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div><!-- End off row -->
+
+                        <div class="row">
+                            <div class="main_features fix roomy-100">
+                                <div class="col-md-12 text-center">
+                                    <div class="features_item">
+
+                                        <div class="f_item_text">
+                                            <h3>Curso 2</h3>
+                                            <img src="images/1599882093Sin título - copia.png" alt="">
+                                            <p class="text-justify mt-3">
+                                                Aquí va la desc del curso 2
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +140,7 @@
                         </div><!-- End off row -->
                     </div><!-- End off container -->
                 </section><!-- End off Featured Section-->
-            @endforeach
+
 
 
 
