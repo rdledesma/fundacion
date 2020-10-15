@@ -33,3 +33,7 @@ Route::get('/cursos', function () {
 
     return view('courses');
 })->name('curses');
+
+Route::view('artesanos/maria', 'artesanos.maria');
+Route::view('artesanos/jose', 'artesanos.jose');
+Route::view('artesanos/rita', 'artesanos.rita');

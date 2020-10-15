@@ -260,229 +260,71 @@
             </section><!-- End off Business section -->
 
 
+
             <!--product section-->
             <section id="product" class="product">
                 <div class="container">
-                    <div class="main_product roomy-80">
-                        <div class="head_title text-center fix">
-                            <h2 class="text-uppercase">Compra regional</h2>
-                            <h5>Conocé los artesanos que forman parte de nuestra comunidad</h5>
+                    <div class="row">
+                        <div class="container slideShow">
+                            <a href="artesanos/jose">
+                                <div class="col-sm-12 col-md-6 col-lg-6">
+                                    <img src="/artesanos/3.jpg" alt="" />
+
+
+                                </div>
+
+                                <div class="col-sm-12 col-md-6 col-lg-6 text-center">
+                                    <h4>Trabajos en cueros José</h4>
+                                    <p>asdas asdas asd asda sada sda sdas dasd asd asdasd ad asdasd asd asdasd </p>
+                                    <p>asdas asdas asd asda sada sda sdas dasd asd asdasd ad asdasd asd asdasd </p>
+                                    <p>asdas asdas asd asda sada sda sdas dasd asd asdasd ad asdasd asd asdasd </p>
+                                    <p>asdas asdas asd asda sada sda sdas dasd asd asdasd ad asdasd asd asdasd </p>
+                                </div>
+                            </a>
                         </div>
+                        <div class="container slideShow">
+                            <a href="artesanos/rita">
+                                <div class="col-sm-12 col-md-6 col-lg-6">
+                                    <img src="/artesanos/2.jpg" alt="" />
 
-                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                            <!-- Indicators -->
-                            <ol class="carousel-indicators">
-                                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                            </ol>
 
-                            <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox">
-                                <div class="item active">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img1.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="artesanos/contacto-mariela.png" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-
-                                                        <div class="port_caption m-top-20">
-                                                            <h5 >Trabajo en laminados</h5>
-                                                            <h6 >Mariela Ríos</h6>
-                                                        </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img2.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img2.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Alajas</h5>
-                                                        <h6>- José Gimenez</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img3.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img3.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Carteras de cuero</h5>
-                                                        <h6>- Hernán Rodriguez</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img4.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img4.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
 
-                                <div class="item">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img1.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img1.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img2.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img2.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img3.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img3.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img4.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img4.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                <div class="col-sm-12 col-md-6 col-lg-6 text-center">
+                                    <h4>Rita Manualidades </h4>
+                                    <p>bbb bb b bb bbbb bbb  b bbbbbb bbb bbb bbbbbb bbb bbbb b bbbbbb bbb bbbb  </p>
+                                    <p>asdas asdas asd asda sada sda sdas dasd asd asdasd ad asdasd asd asdasd </p>
+                                    <p>bbb bb b bb bbbb bbb  b bbbbbb bbb bbb bbbbbb bbb bbbb b bbbbbb bbb bbbb </p>
+                                    <p>bbb bb b bb bbbb bbb  b bbbbbb bbb bbb bbbbbb bbb bbbb b bbbbbb bbb bbbb  </p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="container slideShow">
+                            <a href="artesanos/maria">
+                                <div class="col-sm-12 col-md-6 col-lg-6">
+                                    <img src="/artesanos/1.jpg" alt="" />
+
                                 </div>
 
-                                <div class="item">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img1.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img1.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img2.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img2.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img3.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img3.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <div class="port_item xs-m-top-30">
-                                                    <div class="port_img">
-                                                        <img src="assets/images/work-img4.jpg" alt="" />
-                                                        <div class="port_overlay text-center">
-                                                            <a href="assets/images/work-img4.jpg" class="popup-img">+</a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="port_caption m-top-20">
-                                                        <h5>Your Work Title</h5>
-                                                        <h6>- Graphic Design</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                <div class="col-sm-12 col-md-6 col-lg-6 text-center">
+                                    <h4>Artesanías varias</h4>
+                                    <p>aaaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa </p>
+                                    <p>a aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaa </p>
+                                    <p>asdas asdas asd asda sada sda sdas dasd asd asdasd ad asdasd asd asdasd </p>
+                                    <p>asdas asdas asd asda sada sda sdas dasd asd asdasd ad asdasd asd asdasd </p>
                                 </div>
+                            </a>
+                        </div>
+                        <div class="row d-flex justify-content-between text-center">
+                            <div class="col-6">
+                                <button  onclick="control(-1)" class="arrows" id="left"><</button>
+                                <button onclick="control(1)" class="arrows" id="right">></button>
+
 
                             </div>
-
-                            <!-- Controls -->
-                            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                                <i class="fa fa-angle-left" aria-hidden="true"></i>
-                                <span class="sr-only">Previous</span>
-                            </a>
-
-                            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                                <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                <span class="sr-only">Next</span>
-                            </a>
                         </div>
-                    </div><!-- End off row -->
+                    </div>
+
                 </div><!-- End off container -->
             </section><!-- End off Product section -->
 
@@ -580,7 +422,7 @@
                         </div>
                     </div>
                 </div>
-            </section><!-- End off Brand section --> --}}
+            </section> --}}
 
 
             <!--Call to  action section-->
@@ -752,6 +594,52 @@
 
         <script src="assets/js/plugins.js"></script>
         <script src="assets/js/main.js"></script>
+        <script>
+            //Changed index so 1 is actually first image, rather than starting at 0 index
+var index = 1;
+var paused = false;
+var slideShow = [];
 
+for (i=0; i<document.getElementsByClassName("slideShow").length; i++) {
+  slideShow[i] = document.getElementsByClassName("slideShow")[i];
+  slideShow[i].style.display = "none";
+}
+
+slideShow[0].style.display = "inline";
+
+var slides = setInterval(function() {
+  if (index < slideShow.length) {
+    index++;
+		showDivs();
+  }
+  else {
+		index = 1;
+		showDivs();
+	}
+},5000);
+
+function control(n) {
+  clearInterval(slides);
+
+  if (index+n > slideShow.length) {
+    index = 1;
+  }
+  else if (index+n <= 0) {
+    index = slideShow.length;
+  }
+  else {
+		index += n;
+  }
+  showDivs();
+}
+
+function showDivs() {
+  //Hide all slideShow elements, and then show only the targeted element
+  for (let i=1; i<=slideShow.length; i++) {
+    slideShow[i-1].style.display = "none";
+  }
+  slideShow[index-1].style.display = "inline";
+}
+        </script>
     </body>
 </html>
